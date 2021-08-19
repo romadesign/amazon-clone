@@ -4,7 +4,6 @@ import Header from '../../components/Header'
 import { StarIcon } from '@heroicons/react/solid'
 import Currency from 'react-currency-formatter'
 
-import ReactImageMagnify from 'react-image-magnify';
 
 
 const MAX_RATING = 5
