@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import ProductDetail from "./detail";
+import ProductDetail from "../../components/Detail/detail";
 
 
 function index({productDetail}) {
