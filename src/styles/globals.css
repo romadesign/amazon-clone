@@ -18,13 +18,28 @@
     margin-top: -270px;
 }
 
+.detail{
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+}
+
+.bg-image{
+    margin: 0 auto;
+}
+
 @media (max-width: 1000px) {
     .grid{
         margin-top: -150px;
+    }
+    .detail{
+        margin: 0 auto;
     }
 }
 @media (max-width: 750px) {
     .grid{
         margin-top: -60px;
+    }
+    .detail{
+        margin-top: 10px;
     }
 }
